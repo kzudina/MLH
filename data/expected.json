@@ -12,5 +12,7 @@
   "imageLabel": "5. Upload an image (optional)",
   "submitText": "Create!",
   "imagePlaceholder": "Click or drag and drop",
-  "namePlaceholder": "Hero's name"
+  "namePlaceholder": "Hero's name",
+  "agePlaceholder": "Hero's age",
+  "storyTypePlaceholder": "Type of the story"
 }
